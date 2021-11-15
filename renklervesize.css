@@ -1,0 +1,22 @@
+.fs-14{
+    font-size: 14px;
+
+}
+.fs-25{
+    font-size: 50px;
+}
+
+.text-colorblue{
+    color:#00FFFF ;
+}
+
+.text-colordarkmagenta{
+ color: #8B008B;
+}
+
+.text-colorgold{
+    color: #FFD700;
+}
+.rainbow-text {
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+  }
